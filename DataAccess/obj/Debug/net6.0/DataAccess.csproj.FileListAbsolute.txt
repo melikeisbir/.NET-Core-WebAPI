@@ -1,0 +1,51 @@
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\bin\Debug\net6.0\Entity.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\bin\Debug\net6.0\Entity.pdb
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\bin\Debug\net6.0\Entity.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\bin\Debug\net6.0\Entity.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\bin\Debug\net6.0\Entity.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\bin\Debug\net6.0\Entity.pdb
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,305 @@
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Entity.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\bin\Debug\net6.0\Entity.pdb
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\fatih.durmaz.ENERJI\source\repos\QuizBackend\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Business.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Entity.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Business.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\bin\Debug\net6.0\Entity.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\CASPER\OneDrive\Masaüstü\QuizBackend\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Business.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Entity.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Business.pdb
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Entity.pdb
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Melike İSBİR\Desktop\QuizBackend\WebAPI\bin\Debug\net6.0\appsettings.Staging.json
